@@ -16,5 +16,3 @@ document requires.
 - **50 verified directly against the issuing authority**, each page showing the date it was last checked
 - The biometric audit runs **in your browser** — the photo is not uploaded to be judged
 - Exact millimetre sizing at 300 DPI, plus a printable sheet
-
-Built with Next.js, MediaPipe and sharp.
