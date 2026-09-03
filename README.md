@@ -18,5 +18,3 @@ document requires.
 - Exact millimetre sizing at 300 DPI, plus a printable sheet
 
 Built with Next.js, MediaPipe and sharp.
-
-Every number there is checkable against what's shipped — that's why it's written that way.
